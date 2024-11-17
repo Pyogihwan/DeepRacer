@@ -23,11 +23,11 @@ export PATH=$ROOT_DIR/scripts:$PATH
 
 ## 📁 Total Structure
 ### Total Structure
-[![Total Structure](./docs/totalstructure.png)]
+![Total Structure](./docs/totalstructure.png)
 ### TCP communication
-[![TCP communication](./docs/TCPcommunication.png)]
+![TCP communication](./docs/TCPcommunication.png)
 ### UDP communication
-[![UDP communication](./docs/UDPcommunication.png)]
+![UDP communication](./docs/UDPcommunication.png)
 
 ## 📁 Project Code Structure
 ```
