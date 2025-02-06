@@ -24,9 +24,9 @@ export PATH=$ROOT_DIR/scripts:$PATH
 ## 📁 Total Structure
 ### Initial Structure
 ![Total Structure](./docs/totalstructure.png)
-### Total communication
+### Total Structure
 ![TCP communication](./docs/TCPcommunication.png)
-### Process Dependency
+### UDP Communication
 ![UDP communication](./docs/UDPcommunication.png)
 
 ## 📁 Project Code Structure
