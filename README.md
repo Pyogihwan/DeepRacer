@@ -22,11 +22,11 @@ export PATH=$ROOT_DIR/scripts:$PATH
 - 팀원 : 신현지, 표기환, 송규현, 이현제, 이규호
 
 ## 📁 Total Structure
-### Total Structure
+### Initial Structure
 ![Total Structure](./docs/totalstructure.png)
-### TCP communication
+### Total communication
 ![TCP communication](./docs/TCPcommunication.png)
-### UDP communication
+### Process Dependency
 ![UDP communication](./docs/UDPcommunication.png)
 
 ## 📁 Project Code Structure
